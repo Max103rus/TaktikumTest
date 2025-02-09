@@ -1,0 +1,6 @@
+@TaktikumTest_HostAddress = http://localhost:5232
+
+GET {{TaktikumTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
